@@ -1,6 +1,6 @@
 # README
 
-Templates using Rect Native
+Templates using React Native
 
 ## Instructions
 
@@ -13,4 +13,5 @@ Templates using Rect Native
 ## Content
 
 -profile_page: Contain the main page                                          
--detail_page:Contain the Form view
+-detail_page:Contain the Form view                                 
+  -run "npm install tcomb-form-native --save
