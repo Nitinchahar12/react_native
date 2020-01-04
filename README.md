@@ -10,7 +10,7 @@ Templates using Rect Native
 - Make sure you have `expo-cli` installed on your system.
 - Run Command 'npm start' to run the software
 
-##Content
+## Content
 
--profile_page: Contain the main page
+-profile_page: Contain the main page                                          
 -detail_page:Contain the Form view
